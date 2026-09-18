@@ -20,11 +20,12 @@ Research project on generative AI, combining a literature review, survey and int
 ## Collaboration
 
 Feature-branch workflow:
-git checkout -b new-feature main
-git add <file>
-git commit -m "Describe the change"
-git checkout main
-git merge new-feature
-git branch -d new-feature
+
+- git checkout -b new-feature main
+- git add <file>
+- git commit -m "Describe the change"
+- git checkout main
+- git merge new-feature
+- git branch -d new-feature
 
 Note: Generative AI assisted in creating this README.
